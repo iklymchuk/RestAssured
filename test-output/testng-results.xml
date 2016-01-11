@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3681" started-at="2015-09-09T14:25:55Z" finished-at="2015-09-09T14:25:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3681" started-at="2015-09-09T14:25:55Z" finished-at="2015-09-09T14:25:59Z">
+      <class name="test.edm">
+        <test-method status="PASS" signature="testGetJSON()[pri:0, instance:test.edm@56d15836]" name="testGetJSON" duration-ms="3120" started-at="2015-09-09T17:25:55Z" finished-at="2015-09-09T17:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetJSON -->
+        <test-method status="PASS" signature="testGetXML()[pri:0, instance:test.edm@56d15836]" name="testGetXML" duration-ms="549" started-at="2015-09-09T17:25:58Z" finished-at="2015-09-09T17:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetXML -->
+      </class> <!-- test.edm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
